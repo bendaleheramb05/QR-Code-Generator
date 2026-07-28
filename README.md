@@ -77,7 +77,8 @@ QR-Code-Generator/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/QR-Code-Generator.git
+git clone https://github.com/your-username
+/QR-Code-Generator.git
 ```
 
 ### Move into Project
